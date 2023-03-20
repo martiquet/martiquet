@@ -13,4 +13,4 @@ Actually looking for my first job, can't wait to learn more and practice !!!!!
 ## Contact
 - [@frmartiquet](https://twitter.com/frmartiquet) on Twitter
 - [Doomfaith#7703](./) on Discord
-- [François martiquet](https://www.linkedin.com/in/fran%C3%A7ois-martiquet-50ba1a164) on Linkdin
+- [François martiquet](https://www.linkedin.com/in/fran%C3%A7ois-martiquet-50ba1a164) on Linkdn
