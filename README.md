@@ -1,5 +1,6 @@
 ## Hey! 👋
 I'm Francois, french web developer.
+Just finished my web dev formation in 2023.
 
 ## Skills
 - 👨‍💻 TypeScript, JavaScript
