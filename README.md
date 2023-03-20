@@ -1,5 +1,5 @@
 ## Hey! 👋
-I'm Francois, french web developer.<br>
+I'm Francois 30 years old (father of a monster), french web developer.<br>
 Just finished my web dev formation in 2023.<br>
 
 Actually looking for my first job, can't wait to learn more and practice !!!!!
