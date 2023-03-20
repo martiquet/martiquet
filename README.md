@@ -1,16 +1,13 @@
-### Hi there 👋
+## Hey! 👋
+I'm Francois, french web developer.
 
-<!--
-**martiquet/martiquet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Skills
+- 👨‍💻 TypeScript, JavaScript
+- ⚙️ React
+- 👁️ SASS, CSS
+- 💽 Mongo
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact
+- [@frmartiquet](https://twitter.com/frmartiquet) on Twitter
+- [Doomfaith#7703](./) on Discord
+- [François martiquet](https://www.linkedin.com/in/fran%C3%A7ois-martiquet-50ba1a164) on Linkdin
